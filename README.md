@@ -9,6 +9,9 @@ git clone https://github.com/marisdanne/intro_in_git.git # Lai noklonetu projekt
 
 git add .
 git commit -m "Veiktas izmainas!"
+git push origin main
 
+git config user.name "Māris Danne"
+git config user.email "maris.danne@rvt.lv"
 
 ```
