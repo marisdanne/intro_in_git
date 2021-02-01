@@ -15,3 +15,6 @@ git config user.name "Māris Danne"
 git config user.email "maris.danne@rvt.lv"
 
 ```
+
+## Izmantotā literatūra
+Super grāmata. 
